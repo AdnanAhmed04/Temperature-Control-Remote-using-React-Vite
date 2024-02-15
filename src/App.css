@@ -1,0 +1,19 @@
+/* Default styles */
+body {
+  transition: background-color 0.5s;
+}
+
+/* High temperature */
+.high-temperature {
+  background-color: rgb(248, 172, 172);
+}
+
+/* Medium temperature */
+.medium-temperature {
+  background-color: lightblue;
+}
+
+/* Low temperature */
+.low-temperature {
+  background-color: rgb(0, 174, 255);
+}
